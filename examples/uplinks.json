@@ -1,0 +1,3 @@
+[
+  {"serial":"DEMO-0001","uplinks":[{"interface":"wan1","status":"active","ip":"192.0.2.10"},{"interface":"wan2","status":"failed","ip":"198.51.100.10"}]}
+]
